@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrgChartApis", "OrgChartApis\OrgChartApis.csproj", "{D4E268A9-8998-4A7F-8D78-F0032308478C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{D41C9302-5841-49A3-8A3C-C925A3C6DC2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D4E268A9-8998-4A7F-8D78-F0032308478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4E268A9-8998-4A7F-8D78-F0032308478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4E268A9-8998-4A7F-8D78-F0032308478C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41C9302-5841-49A3-8A3C-C925A3C6DC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41C9302-5841-49A3-8A3C-C925A3C6DC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41C9302-5841-49A3-8A3C-C925A3C6DC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41C9302-5841-49A3-8A3C-C925A3C6DC2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
